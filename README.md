@@ -1,8 +1,19 @@
 ## Kim Young-Nam
 
-### 🔭 Career
+### 🔭 Work
+* Developed pump management application using Android
+* Developed system aircon firmware using C
+* Developed bloodstain analysis program using C++ and OpenCV
+* Developed spatial mapping and reconstruction program using C++ and [ZED stereo camera](https://www.stereolabs.com)
 
-### 🌱 Job
+### 🌱 Interest
+* Deep Learning/Machine Learning
+* Computer Vision
+* Linux
+* Python
+
+### 📫 How to reach me : mooore@gmail.com
+
 <!--
 **KimYoungNam/KimYoungNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
