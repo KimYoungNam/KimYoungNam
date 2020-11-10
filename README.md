@@ -1,6 +1,6 @@
 ## Kim Young-Nam
 
-### 🔭 Work
+### 🔭 Career
 * Developed pump management application using Android
 * Developed system aircon firmware using C
 * Developed bloodstain analysis program using C++ and OpenCV
