@@ -3,7 +3,7 @@
 ### 🔭 Career
 * Developed pump management application using Android
 * Developed system aircon firmware using C
-* Developed bloodstain analysis program using C++ and OpenCV
+* Developed bloodstain pattern analysis program using C++ and OpenCV
 * Developed spatial mapping and reconstruction program using C++ and [ZED stereo camera](https://www.stereolabs.com)
 
 ### 🌱 Interest
