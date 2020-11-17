@@ -7,7 +7,6 @@
 * Developed spatial mapping and reconstruction program using C++ and [ZED stereo camera](https://www.stereolabs.com)
 
 ### 🌱 Interest
-### 🌱 Interest
 * Deep Learning/Machine Learning
 * Computer Vision : [OpenCV](https://opencv.org/), [NVIDIA VisionWorks](https://developer.nvidia.com/embedded/visionworks)
 * [NVIDIA Jetson Series](https://developer.nvidia.com/embedded-computing)
