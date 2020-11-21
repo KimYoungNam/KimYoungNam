@@ -13,7 +13,7 @@
 * [NVIDIA CUDA](https://developer.nvidia.com/cuda-zone)
 * Linux
 * [Python](https://www.python.org)
-* [Baldur's Gate Series](https://en.wikipedia.org/wiki/Baldur's_Gate_(series)) : D&D based RPG
+* [Baldur's Gate Series](https://en.wikipedia.org/wiki/Baldur's_Gate_(series))
 
 ### 📫 How to reach me : mooore@gmail.com
 
