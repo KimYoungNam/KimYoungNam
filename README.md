@@ -4,14 +4,14 @@
 
 ### 🔭 Career
 * Developed pump management application using Android
-* Developed system aircon firmware using C
+* Developed firmware of system air conditioner using C
 * Developed bloodstain pattern analysis program using C++ and OpenCV
 * Developed spatial mapping and reconstruction program using C++ and [ZED stereo camera](https://www.stereolabs.com)
 
 ### 🌱 Interest
-* Deep Learning/Machine Learning
-* Computer Vision : [OpenCV](https://opencv.org/), [NVIDIA VisionWorks](https://developer.nvidia.com/embedded/visionworks)
-* [NVIDIA Jetson Series](https://developer.nvidia.com/embedded-computing)
+* Machine Learning/Deep Learning
+* Computer Vision : [OpenCV](https://opencv.org/), [NVIDIA VisionWorks](https://developer.nvidia.com/embedded/visionworks), [NVIDIA VPI(Vision Programming Interface)](https://developer.nvidia.com/embedded/vpi)
+* [NVIDIA Jetson Series](https://developer.nvidia.com/embedded-computing) and [JetPack SDK](https://developer.nvidia.com/EMBEDDED/Jetpack)
 * [NVIDIA CUDA](https://developer.nvidia.com/cuda-zone)
 * Linux
 * [Python](https://www.python.org)
